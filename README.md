@@ -1,4 +1,4 @@
-## Hi there! :D
+## Hi there! :smile:
 
 I'm Orion, a computer engineer and game developer. Check out some of my projects below! 
 
@@ -8,12 +8,12 @@ I'm Orion, a computer engineer and game developer. Check out some of my projects
 
 ### Games
 
-<picture>
-    <img alt="Casa Del Bicho" href="https://github.com/hdobos/CasaDelBicho" src="./src/img/CasaDelBicho.png">
-    <img alt="Liminal Space" href="https://github.com/ingoopa/Game1FinalProject" src="./src/img/title_animation.gif">
-    <img alt="Watsinnafridge?" href="https://github.com/gobos12/LudumDare54" src="./src/img/watsinnafridge.png">
-    <img alt="Plant Donor" href="https://github.com/gobos12/LudumDare52" src="./src/img/start_screen.gif">
-</picture>
+<div align="center">
+    <a href="https://github.com/hdobos/CasaDelBicho" target="_blank"> <img alt="Casa Del Bicho" src="./src/img/CasaDelBicho.png"> </a>
+    <a href="https://github.com/ingoopa/Game1FinalProject" target="_blank"> <img alt="Liminal Space" src="./src/img/title_animation.gif"> </a> </br>
+    <a href="https://github.com/gobos12/LudumDare54" target="_blank"><img alt="Watsinnafridge?" src="./src/img/watsinnafridge.png"> </a>
+    <a href="https://github.com/gobos12/LudumDare52" target="_blank"><img alt="Plant Donor" src="./src/img/start_screen.gif"> </a> </br>
+</div>
 
 
 <!--
