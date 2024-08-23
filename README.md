@@ -9,10 +9,10 @@ I'm Orion, a computer engineer and game developer. Check out some of my projects
 ### Games
 
 <div align="center">
-    <a href="https://github.com/hdobos/CasaDelBicho" target="_blank"> <img alt="Casa Del Bicho" src="./src/img/CasaDelBicho.png"> </a>
-    <a href="https://github.com/ingoopa/Game1FinalProject" target="_blank"> <img alt="Liminal Space" src="./src/img/title_animation.gif"> </a> </br>
-    <a href="https://github.com/gobos12/LudumDare54" target="_blank"><img alt="Watsinnafridge?" src="./src/img/watsinnafridge.png"> </a>
-    <a href="https://github.com/gobos12/LudumDare52" target="_blank"><img alt="Plant Donor" src="./src/img/start_screen.gif"> </a> </br>
+    <a href="https://github.com/hdobos/CasaDelBicho" target="_blank"> <img alt="Casa Del Bicho" src="./src/img/CasaDelBicho.png" width=420px> </a>
+    <a href="https://github.com/ingoopa/Game1FinalProject" target="_blank"> <img alt="Liminal Space" src="./src/img/title_animation.gif" width=420px> </a> </br>
+    <a href="https://github.com/gobos12/LudumDare54" target="_blank"><img alt="Watsinnafridge?" src="./src/img/watsinnafridge.png" width=420px> </a>
+    <a href="https://github.com/gobos12/LudumDare52" target="_blank"><img alt="Plant Donor" src="./src/img/start_screen.gif" width=420px> </a> </br>
 </div>
 
 
